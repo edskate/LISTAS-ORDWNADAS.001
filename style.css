@@ -1,0 +1,12 @@
+h1{
+    text-shadow: 3px 4px 5px rgb(245, 8, 8)
+}
+p{
+text-shadow: 2px 3px 4px red;
+text-align: center;
+}
+ol,li{
+    color: red;
+    font-size: 150%;
+    text-align: center;
+}
